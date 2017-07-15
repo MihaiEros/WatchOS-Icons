@@ -3,7 +3,8 @@
 I am a huge fan of https://makeappicon.com, I use it for almost every iOS app I have to.
 
 Unfortunately, they have to update their Assets for Watch, Watch Extension and Watch Complication for Watch OS 4 and Xcode 9.
-While waiting for them to fix their scripts, I developed this tiny ruby script which generates the Assets correct for Watch OS 4.
+
+While waiting for them to fix their scripts, I developed this tiny ruby script which generates the Assets correctly for Watch OS 4.
 
 **USAGE**
 
